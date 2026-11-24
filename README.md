@@ -1,4 +1,4 @@
-# runvouch-com
+# RunVouch
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,158 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-runvouch-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://runvouch.com/
+RunVouch provides a watchdog service for unattended AI agents, monitoring their execution and ensuring they complete tasks as expected. It offers integrations with popular AI platforms, alerting via multiple channels, and a free API key for developers. The service tracks runs, detects failures, and records verifiable proof of execution, helping teams avoid unexpected costs and maintain reliability of automated workflows.
+
+**Areas:** Company · AI · Monitoring · Automation · Watchdog
+
+## RunVouch on APIs.io
+
+Everything profiled for RunVouch is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/runvouch-com/](https://apis.io/providers/runvouch-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (21)
+
+- [RunVouch Admin API](https://apis.io/apis/runvouch-com/runvouch-com-admin-api/) — The Admin API from RunVouch — 1 operation(s) for admin.
+- [RunVouch Agents API](https://apis.io/apis/runvouch-com/runvouch-com-agents-api/) — The Agents API from RunVouch — 4 operation(s) for agents.
+- [RunVouch Alerts API](https://apis.io/apis/runvouch-com/runvouch-com-alerts-api/) — The Alerts API from RunVouch — 2 operation(s) for alerts.
+- [RunVouch App API](https://apis.io/apis/runvouch-com/runvouch-com-app-api/) — The App API from RunVouch — 1 operation(s) for app.
+- [RunVouch Contact API](https://apis.io/apis/runvouch-com/runvouch-com-contact-api/) — The Contact API from RunVouch — 1 operation(s) for contact.
+- [RunVouch Export API](https://apis.io/apis/runvouch-com/runvouch-com-export-api/) — The Export API from RunVouch — 1 operation(s) for export.
+- [RunVouch Fleets API](https://apis.io/apis/runvouch-com/runvouch-com-fleets-api/) — The Fleets API from RunVouch — 4 operation(s) for fleets.
+- [RunVouch Health API](https://apis.io/apis/runvouch-com/runvouch-com-health-api/) — The Health API from RunVouch — 1 operation(s) for health.
+- [RunVouch Integrations API](https://apis.io/apis/runvouch-com/runvouch-com-integrations-api/) — The Integrations API from RunVouch — 1 operation(s) for integrations.
+- [RunVouch MCP API](https://apis.io/apis/runvouch-com/runvouch-com-mcp-api/) — The Mcp API from RunVouch — 1 operation(s) for mcp.
+- [RunVouch Me API](https://apis.io/apis/runvouch-com/runvouch-com-me-api/) — The Me API from RunVouch — 4 operation(s) for me.
+- [RunVouch Openapi Lite API](https://apis.io/apis/runvouch-com/runvouch-com-openapi-lite-api/) — The Openapi Lite API from RunVouch — 1 operation(s) for openapi lite.
+- [RunVouch Ping API](https://apis.io/apis/runvouch-com/runvouch-com-ping-api/) — The Ping API from RunVouch — 2 operation(s) for ping.
+- [RunVouch Proof API](https://apis.io/apis/runvouch-com/runvouch-com-proof-api/) — The Proof API from RunVouch — 2 operation(s) for proof.
+- [RunVouch Public API](https://apis.io/apis/runvouch-com/runvouch-com-public-api/) — The Public API from RunVouch — 2 operation(s) for public.
+- [RunVouch Runs API](https://apis.io/apis/runvouch-com/runvouch-com-runs-api/) — The Runs API from RunVouch — 5 operation(s) for runs.
+- [RunVouch Run Vouch API](https://apis.io/apis/runvouch-com/runvouch-com-runvouch-api/) — The RunVouch API from RunVouch — 1 operation(s) for runvouch.
+- [RunVouch Settings API](https://apis.io/apis/runvouch-com/runvouch-com-settings-api/) — The Settings API from RunVouch — 2 operation(s) for settings.
+- [RunVouch Signup API](https://apis.io/apis/runvouch-com/runvouch-com-signup-api/) — The Signup API from RunVouch — 1 operation(s) for signup.
+- [RunVouch Status.json API](https://apis.io/apis/runvouch-com/runvouch-com-status-json-api/) — The Status.json API from RunVouch — 1 operation(s) for status.json.
+- [RunVouch Webhooks API](https://apis.io/apis/runvouch-com/runvouch-com-webhooks-api/) — The Webhooks API from RunVouch — 3 operation(s) for webhooks.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Runvouch Com Webhooks](https://apis.io/asyncapis/runvouch-com/runvouch-com-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [RunVouch Agentic Access](https://apis.io/agentic-access/runvouch-com/runvouch-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [AgentIn](https://apis.io/schemas/runvouch-com/runvouch-com-agent-in/)
+- [EndIn](https://apis.io/schemas/runvouch-com/runvouch-com-end-in/)
+- [SettingsIn](https://apis.io/schemas/runvouch-com/runvouch-com-settings-in/)
+- [SignupIn](https://apis.io/schemas/runvouch-com/runvouch-com-signup-in/)
+- [StartIn](https://apis.io/schemas/runvouch-com/runvouch-com-start-in/)
+- [ToolIn](https://apis.io/schemas/runvouch-com/runvouch-com-tool-in/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Runvouch Com Context](https://apis.io/jsonld/runvouch-com/runvouch-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [RunVouch API Rules](https://apis.io/rules/runvouch-com/runvouch-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [RunVouch Domain Security](https://apis.io/security/runvouch-com/runvouch-com-domain-security/)
+- [RunVouch Vulnerability Disclosure](https://apis.io/security/runvouch-com/runvouch-com-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [RunVouch Plans Pricing](https://apis.io/plans/runvouch-com/runvouch-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://runvouch.com/)
+- [Documentation](https://runvouch.com/docs/)
+- [Getting started](https://runvouch.com/blog/openclaw-daily-cost-cap-setup)
+- [Pricing](https://runvouch.com/pricing)
+- [Changelog](https://runvouch.com/changelog)
+- [Blog](https://runvouch.com/blog)
+- [Security](https://runvouch.com/security)
+- [Terms of service](https://runvouch.com/terms)
+- [Privacy policy](https://runvouch.com/privacy)
+- [GitHub](https://github.com/runvouch)
+- [Status](https://runvouch.com/status)
+
+## API Evangelist rating
+
+**Kin Score 57.9** — strong · rubric 0.27.0 · scored 2026-11-24
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.7 |
+| Contract quality | 57.3 |
+| Contract governance | 79.1 |
+| Operational transparency | 55.3 |
+| Developer ergonomics | 40.5 |
+| Access clarity | 60.0 |
+
+**Agent readiness 31.5** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | — |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/runvouch-com/](https://apis.io/providers/runvouch-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for RunVouch: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/runvouch-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
